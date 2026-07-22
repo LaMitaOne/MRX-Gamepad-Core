@@ -29,8 +29,8 @@ Guaranteed bugs to play with :D
     FireMonkey (FMX) framework.
     SDL3.dll (Place it in your project's output directory).
 
-🚀 Sample Project
-A demo project and compiled .exe are included in this repository. Tested with win32 and win64 and:
+🚀 Sample Project    
+   Project and compiled .exe are included in this repository. Tested with win32 and win64 and following controllers:
 
     XInput: EasySMX X05 Pro
     DInput: EasySMX ESM-9124
