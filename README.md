@@ -3,7 +3,7 @@ A modern, lightweight gamepad input handler for Delphi using FireMonkey (FMX) an
 
 🎮 MRX Gamepad Core (Delphi / FMX / SDL3) alpha v0.1    
      
-Status: 🚧 Work in Progress / Early Access. Core functionality works, but API might change.     
+Status: 🚧 Work in Progress / Prototype. Core functionality works, but API might change.     
     
 Guaranteed bugs to play with :D     
     
@@ -30,7 +30,7 @@ Guaranteed bugs to play with :D
     SDL3.dll (Place it in your project's output directory).
 
 🚀 Sample Project
-A demo project and compiled .exe are included in this repository. Tested with:
+A demo project and compiled .exe are included in this repository. Tested with win32 and win64 and:
 
     XInput: EasySMX X05 Pro
     DInput: EasySMX ESM-9124
