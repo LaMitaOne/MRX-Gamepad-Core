@@ -1,5 +1,5 @@
 # MRX-Gamepad-Core
-A modern, lightweight, and cross-platform gamepad input handler for Delphi using FireMonkey (FMX) and SDL3. It features a background polling thread, visual UI mapping, deadzone configuration, and rumble support.
+A modern, lightweight gamepad input handler for Delphi using FireMonkey (FMX) and SDL3. It features a background polling thread, visual UI mapping, deadzone configuration, and rumble support.
 
 🎮 MRX Gamepad Core (Delphi / FMX / SDL3) alpha v0.1    
      
@@ -40,7 +40,7 @@ A demo project and compiled .exe are included in this repository. Tested with:
      Fix gamepad hot-plugging (disconnect/reconnect handling).
      Implement a proper data dictionary for mappings (instead of parsing UI label text).
      Add separate trigger deadzones.
-     Full cross-platform testing (macOS/Linux).
+     And many more sure :D
 
 🤝 Contributing
 
