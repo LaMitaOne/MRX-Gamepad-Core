@@ -3,7 +3,9 @@ A modern, lightweight, and cross-platform gamepad input handler for Delphi using
 
 🎮 MRX Gamepad Core (Delphi / FMX / SDL3) alpha v0.1    
      
-Status: 🚧 Work in Progress / Early Access. Core functionality works, but API might change. Guaranteed bugs to play with :D.     
+Status: 🚧 Work in Progress / Early Access. Core functionality works, but API might change.     
+    
+Guaranteed bugs to play with :D     
     
 <img width="1318" height="795" alt="Unbenannt" src="https://github.com/user-attachments/assets/dd60a810-3fc8-4b65-84f9-ac87a1d5db9c" />
       
