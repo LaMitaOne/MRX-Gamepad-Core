@@ -33,7 +33,7 @@ Guaranteed bugs to play with :D
     SDL3.dll (Place it in your project's output directory).
 
 🚀 Sample Project    
-   Project and compiled .exe are included in this repository. Tested with win32 and win64 and following controllers:
+   Project and compiled .exe are included in this repository. Tested with win32 and win64 and following controllers:    
 
     XInput: EasySMX X05 Pro
     DInput: EasySMX ESM-9124
