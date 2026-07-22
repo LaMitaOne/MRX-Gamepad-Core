@@ -3,6 +3,8 @@ A modern, lightweight gamepad input handler for Delphi using FireMonkey (FMX) an
 
 🎮 MRX Gamepad Core (Delphi / FMX / SDL3) alpha v0.1    
      
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/MRX-Gamepad-Core)    
+     
 Status: 🚧 Work in Progress / Prototype. Core functionality works, but API might change.    
 Sure some to do still, but a good start :)   
     
