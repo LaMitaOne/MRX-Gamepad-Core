@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.165,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\uMRX_GamepadSettings.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\uMRX_GamepadSettings.pas=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Project2.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit2.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit2.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\uMRX_GamepadSettings.pas=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.035,=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\uMRX_GamepadCore.pas=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\uMRX_GamepadSettings.fmx=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
