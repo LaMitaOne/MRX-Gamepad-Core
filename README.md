@@ -53,4 +53,15 @@ This is a work in progress. If you find bugs or want to improve the code (especi
 MIT License. See LICENSE file for details. 
 (Note: SDL3 itself is licensed under the zlib license).
 
-SDL3 from: [https://github.com/libsdl-org/SDL](https://github.com/libsdl-org)
+SDL3 from: [https://github.com/libsdl-org/SDL](https://github.com/libsdl-org)      
+
+   
+If you want to tip me a coffee.. :)   
+    
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=RX5KTTMXW497Q">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal"/>
+  </a>
+</p>
+        
+
