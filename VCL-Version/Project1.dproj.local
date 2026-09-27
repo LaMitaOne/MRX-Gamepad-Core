@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.09.27 08:42:54.033,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.09.27 08:43:34.108,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit1.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2026.09.27 08:43:34.108,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.09.27 08:44:05.680,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2026.09.27 08:44:09.193,=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit2.pas</Transaction>
+    <Transaction>2026.09.27 08:46:13.916,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\uMRX_GamepadSettings.dfm=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit2.dfm</Transaction>
+    <Transaction>2026.09.27 08:46:13.916,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\uMRX_GamepadSettings.pas=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit2.pas</Transaction>
+    <Transaction>2026.09.27 08:49:08.506,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit2.pas=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit1.pas</Transaction>
+    <Transaction>2026.09.27 08:49:08.506,C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit2.dfm=C:\Users\Lenovo\Downloads\MRX-Gamepad-Core\VCL-Version\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
